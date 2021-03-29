@@ -21,8 +21,8 @@ namespace Assignment6Names.AddControllers
         {
             return new Assignment6
             {
-                firstName = "George",
-                lastName = "Washington",
+                firstName = "Barack",
+                lastName = "Obama",
                 major = "Politcs"
             };
         }
